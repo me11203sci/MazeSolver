@@ -18,6 +18,7 @@
 	```
 
 #### Project Structure:
+```
 ./
 ├──sourceFiles/
 │  └──solver.cpp
@@ -26,3 +27,4 @@
 ├──sampleInput.txt
 ├──makefile
 └──README.md
+```
